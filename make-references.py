@@ -28,7 +28,7 @@ def print_references( dois, f ) :
         f.write("- [" + ref + "](" + ref_url + ")\n")
 
 if __name__ == "__main__" :
-   with open("reading_list.md","w+") as f : 
+   with open("README.md","w+") as f : 
         f.write("# Reading list for CCP5 Summer School\n\n")
         f.write("## Software and tutorials\n\n" )
         f.write("- [PLUMED code](www.plumed.org) PLUMED code for doing free energy calculations\n")

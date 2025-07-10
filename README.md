@@ -11,6 +11,10 @@
 - [G. Bussi, G. A. Tribello, "Analyzing and Biasing Simulations with PLUMED" in Biomolecular Simulations (Springer New York, 2019; http://dx.doi.org/10.1007/978-1-4939-9608-7_21), pp. 529–578](http://dx.doi.org/10.1007/978-1-4939-9608-7_21)
 - [G. A. Tribello, M. Bonomi, D. Branduardi, C. Camilloni, G. Bussi, PLUMED 2: New feathers for an old bird. Computer Physics Communications. 185, 604–613 (2014)](http://dx.doi.org/10.1016/j.cpc.2013.09.018)
 
+## MBAR method
+
+- [M. R. Shirts, "Reweighting from the mixture distribution as a better way to describe the Multistate Bennett Acceptance Ratio"](https://arxiv.org/abs/1704.00891)
+
 ## Metadynamics
 
 - [A. Laio, M. Parrinello, Escaping free-energy minima. Proceedings of the National Academy of Sciences. 99, 12562–12566 (2002)](http://dx.doi.org/10.1073/pnas.202427399)
@@ -33,6 +37,10 @@
 
 - [A. F. Voter, Hyperdynamics: Accelerated Molecular Dynamics of Infrequent Events. Physical Review Letters. 78, 3908–3911 (1997)](http://dx.doi.org/10.1103/PhysRevLett.78.3908)
 - [P. Tiwary, M. Parrinello, From Metadynamics to Dynamics. Physical Review Letters. 111 (2013)](http://dx.doi.org/10.1103/PhysRevLett.111.230602)
+
+## Boltzmann Generators
+
+- [F. Noé, S. Olsson, J. Köhler, H. Wu, Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning. Science. 365 (2019)](http://dx.doi.org/10.1126/science.aaw1147)
 
 ## Metadynamics for nucleation
 

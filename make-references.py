@@ -36,6 +36,8 @@ if __name__ == "__main__" :
         f.write("- [PLUMED nest](www.plumed-nest.org) Examples of calculations people have done with PLUMED\n")
         f.write("\n## Background theory\n\n")
         print_references(["10.1007/978-1-4939-9608-7_21", "10.1016/j.cpc.2013.09.018" ], f )
+        f.write("\n## MBAR method\n\n")
+        f.write("- [M. R. Shirts, \"Reweighting from the mixture distribution as a better way to describe the Multistate Bennett Acceptance Ratio\"](https://arxiv.org/abs/1704.00891)\n")
         f.write("\n## Metadynamics\n\n")
         print_references(["10.1073/pnas.202427399","10.1103/PhysRevLett.100.020603","10.1038/s42254-020-0153-0","10.1063/1.5123498"], f )
         f.write("\n## Transition path sampling and transition interface sampling\n\n")
@@ -45,6 +47,8 @@ if __name__ == "__main__" :
         print_references(["10.1063/1.2432340", "10.1103/PhysRevLett.109.020601"], f )
         f.write("\n## Kinetics from biased simulations\n\n")
         print_references(["10.1103/PhysRevLett.78.3908", "10.1103/PhysRevLett.111.230602"], f ) 
+        f.write("\n## Boltzmann Generators\n\n")
+        print_references(["10.1126/science.aaw1147"], f )
         f.write("\n## Metadynamics for nucleation\n\n")
         print_references(["10.1103/PhysRevB.92.180102", "10.1063/1.4997180", "10.1063/1.5134461", "10.1088/1361-648X/aa893d"], f )
 
